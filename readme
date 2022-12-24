@@ -1,0 +1,21 @@
+9bootstrap5 cdn:css
+bootstrap5 cdn:js
+jquery cdn:jQuery Core 3.6.1 - uncompressed, minified, slim, slim minified {selected minified version}
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
+https://pixabay.com/
+favicon.ico generator
+free icon.ico
+https://cdnjs.com/libraries/typed.js/2.0.0  { this script is used for scrolling letters back and forth one cycle}
+https://github.com/mattboldt/typed.js/ { this script is used for scrolling letters back and forth continously}
+https://cdnjs.com/libraries/jquery.inputmask
+https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/5.0.7/jquery.inputmask.min.js
+you tube: Human Resources App using Django 4 | Frontend Application (initially) | Full Series 2022 | Part 01
+you tube: Human Resources App using Django 4 | Frontend Application (initially) | Full Series 2022 | Part 02
+you tube: Human Resources App using Django 4 | Frontend Application (initially) | Full Series 2022 | Part 03 
+you tube: Human Resources App using Django 4 | Frontend Application (initially) | Full Series 2022 | Part 04 
+you tube: Human Resources App using Django 4 | Frontend Application (initially) | Full Series 2022 | Part 05 (form validation)
+you tube: Human Resources App using Django 4 | Frontend Application (initially) | Full Series 2022 | Part 06
+you tube: Human Resources App using Django 4 | Frontend Application (initially) | Full Series 2022 | Part 07
+you tube: Human Resources App using Django 4 | Frontend Application (initially) | Full Series 2022 | Part 08 
+you tube: Human Resources App with Django 4 | Frontend Application (initially) | Full Series 2022 | Final Part 
+pip install -U django-jazzmin
